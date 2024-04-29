@@ -1,0 +1,8 @@
+package hiGit;
+
+public class hiGit {
+
+        public static void main(string[]args {
+                system.out.print("HELLOWORLD ");
+        }
+}
