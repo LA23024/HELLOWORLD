@@ -1,8 +1,8 @@
 package hiGit;
 
-public class hiGit {
+public class HiGit {
 
-        public static void main(string[]args {
-                system.out.print("HELLOWORLD ");
-        }
+    public static void main(String[] args) {
+        System.out.print("HELLO WORLD");
+    }
 }
